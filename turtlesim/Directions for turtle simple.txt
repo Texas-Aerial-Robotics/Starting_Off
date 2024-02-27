@@ -16,6 +16,7 @@ cd back into your catkin_ws file
 Source ROS environment
 	source /opt/ros/<your_ros_version>/setup.bash
 
+Run roscore:
 Run turtlesim in a new tutorial:
 	rosrun turtlesim turtlesim_node
 
