@@ -20,6 +20,6 @@ Run roscore:
 Run turtlesim in a new tutorial:
 	rosrun turtlesim turtlesim_node
 
-In a new terminal run:
-	rosrun turtle_controller move_turtle.py
+In a new terminal (inside the src folder of your ros package) run:
+	python move_turtle.py
 
